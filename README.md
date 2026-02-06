@@ -98,7 +98,7 @@ Every action is timestamped and auditable
 8  : Delete users<br>
 9  : List sudo users<br>
 10 : List users by group<br>
-11 : Dry-run (show actions without executing)v
+11 : Dry-run (show actions without executing)<br>
 12 : Exit<br>
 
 ## 📄 CSV File Format
