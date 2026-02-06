@@ -88,18 +88,18 @@ Auto-generated daily logs
 Every action is timestamped and auditable
 
 # 📊 Menu Overview
-1  : Prechecks (CSV validation, empty fields, duplicates)
-2  : Create users based on CSV file
-3  : Create users with sudo access
-4  : Add users to groups
-5  : Remove users from groups
-6  : Change user passwords
-7  : Lock / Unlock users
-8  : Delete users
-9  : List sudo users
-10 : List users by group
-11 : Dry-run (show actions without executing)
-12 : Exit
+1  : Prechecks (CSV validation, empty fields, duplicates)<br>
+2  : Create users based on CSV file<br>
+3  : Create users with sudo access<br>
+4  : Add users to groups<br>
+5  : Remove users from groups<br>
+6  : Change user passwords<br>
+7  : Lock / Unlock users<br>
+8  : Delete users<br>
+9  : List sudo users<br>
+10 : List users by group<br>
+11 : Dry-run (show actions without executing)v
+12 : Exit<br>
 
 ## 📄 CSV File Format
 
